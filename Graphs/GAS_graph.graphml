@@ -1,0 +1,1844 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="inverse_weights" attr.type="double" />
+  <key id="d5" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d4" for="node" attr.name="out_strength_centrality" attr.type="double" />
+  <key id="d3" for="node" attr.name="strength_centrality" attr.type="double" />
+  <key id="d2" for="node" attr.name="Longitude" attr.type="double" />
+  <key id="d1" for="node" attr.name="Latitude" attr.type="double" />
+  <key id="d0" for="node" attr.name="Continent" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="UZB">
+      <data key="d0">AS</data>
+      <data key="d1">41.32373</data>
+      <data key="d2">63.9528098</data>
+      <data key="d3">0.009396872477356837</data>
+      <data key="d4">0.008651124001089954</data>
+    </node>
+    <node id="COD">
+      <data key="d0">AF</data>
+      <data key="d1">-2.9814344</data>
+      <data key="d2">23.8222636</data>
+      <data key="d3">2.1552844637775573e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="COL">
+      <data key="d0">SA</data>
+      <data key="d1">4.099917</data>
+      <data key="d2">-72.9088133</data>
+      <data key="d3">6.539698546578395e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="KGZ">
+      <data key="d0">AS</data>
+      <data key="d1">41.5089324</data>
+      <data key="d2">74.724091</data>
+      <data key="d3">0.0015630078340201873</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="CHN">
+      <data key="d0">AS</data>
+      <data key="d1">35.000074</data>
+      <data key="d2">104.999927</data>
+      <data key="d3">0.15237238641408413</data>
+      <data key="d4">0.023838676642681054</data>
+    </node>
+    <node id="BGR">
+      <data key="d0">EU</data>
+      <data key="d1">42.6073975</data>
+      <data key="d2">25.4856617</data>
+      <data key="d3">0.007353637996563749</data>
+      <data key="d4">0.0009337086800625288</data>
+    </node>
+    <node id="ECU">
+      <data key="d0">SA</data>
+      <data key="d1">-1.3397668</data>
+      <data key="d2">-79.3666965</data>
+      <data key="d3">1.0630862157105354e-07</data>
+      <data key="d4">1.0630862157105354e-07</data>
+    </node>
+    <node id="UKR">
+      <data key="d0">EU</data>
+      <data key="d1">49.4871968</data>
+      <data key="d2">31.2718321</data>
+      <data key="d3">0.018213331719558426</data>
+      <data key="d4">0.0028965858143836457</data>
+    </node>
+    <node id="IRL">
+      <data key="d0">EU</data>
+      <data key="d1">52.865196</data>
+      <data key="d2">-7.9794599</data>
+      <data key="d3">0.0067791346033838065</data>
+      <data key="d4">0.00012190983071585173</data>
+    </node>
+    <node id="LTU">
+      <data key="d0">EU</data>
+      <data key="d1">55.3500003</data>
+      <data key="d2">23.7499997</data>
+      <data key="d3">0.0015952548488346997</data>
+      <data key="d4">0.0003952005681694415</data>
+    </node>
+    <node id="ISR">
+      <data key="d0">AS</data>
+      <data key="d1">30.8124247</data>
+      <data key="d2">34.8594762</data>
+      <data key="d3">0.0015363825798695744</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="CHE">
+      <data key="d0">EU</data>
+      <data key="d1">46.7985624</data>
+      <data key="d2">8.2319736</data>
+      <data key="d3">0.017331205314735167</data>
+      <data key="d4">0.00502612322751935</data>
+    </node>
+    <node id="SRB">
+      <data key="d0">EU</data>
+      <data key="d1">44.1534121</data>
+      <data key="d2">20.55144</data>
+      <data key="d3">0.006514810840528732</data>
+      <data key="d4">9.42702991569475e-06</data>
+    </node>
+    <node id="AUS">
+      <data key="d0">OC</data>
+      <data key="d1">-24.7761086</data>
+      <data key="d2">134.755</data>
+      <data key="d3">1.0135247557475407e-07</data>
+      <data key="d4">1.9597368122903268e-08</data>
+    </node>
+    <node id="PRT">
+      <data key="d0">EU</data>
+      <data key="d1">39.6621648</data>
+      <data key="d2">-8.1353519</data>
+      <data key="d3">0.0016773353436023476</data>
+      <data key="d4">0.00018131617056530062</data>
+    </node>
+    <node id="URY">
+      <data key="d0">SA</data>
+      <data key="d1">-32.8755548</data>
+      <data key="d2">-56.0201525</data>
+      <data key="d3">0.00036308464270648136</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="FIN">
+      <data key="d0">EU</data>
+      <data key="d1">63.2467777</data>
+      <data key="d2">25.9209164</data>
+      <data key="d3">0.0006308008519935456</data>
+      <data key="d4">1.0262445837386165e-05</data>
+    </node>
+    <node id="MOZ">
+      <data key="d0">AF</data>
+      <data key="d1">-19.302233</data>
+      <data key="d2">34.9144977</data>
+      <data key="d3">0.00037182293874058717</data>
+      <data key="d4">0.00037182293874058717</data>
+    </node>
+    <node id="ARG">
+      <data key="d0">SA</data>
+      <data key="d1">-34.9964963</data>
+      <data key="d2">-64.9672817</data>
+      <data key="d3">0.01718345689378694</data>
+      <data key="d4">0.0034548169163695023</data>
+    </node>
+    <node id="ARE">
+      <data key="d0">AS</data>
+      <data key="d1">24.0002488</data>
+      <data key="d2">53.9994829</data>
+      <data key="d3">2.3691187318820795e-05</data>
+      <data key="d4">1.5144079231844405e-06</data>
+    </node>
+    <node id="GBR">
+      <data key="d0">EU</data>
+      <data key="d1">54.7023545</data>
+      <data key="d2">-3.2765753</data>
+      <data key="d3">0.061504241387434704</data>
+      <data key="d4">0.013857867650003268</data>
+    </node>
+    <node id="SVK">
+      <data key="d0">EU</data>
+      <data key="d1">48.7411522</data>
+      <data key="d2">19.4528646</data>
+      <data key="d3">0.023694833309753124</data>
+      <data key="d4">0.002421853531180854</data>
+    </node>
+    <node id="HKG">
+      <data key="d0">AS</data>
+      <data key="d1">22.350627</data>
+      <data key="d2">114.1849161</data>
+      <data key="d3">0.023448483954719556</data>
+      <data key="d4">2.509741208957025e-07</data>
+    </node>
+    <node id="USA">
+      <data key="d0">NA</data>
+      <data key="d1">39.7837304</data>
+      <data key="d2">-100.445882</data>
+      <data key="d3">0.1487789795801358</data>
+      <data key="d4">0.07740854507493673</data>
+    </node>
+    <node id="JPN">
+      <data key="d0">AS</data>
+      <data key="d1">36.5748441</data>
+      <data key="d2">139.2394179</data>
+      <data key="d3">1.2438648361486212e-06</data>
+      <data key="d4">1.1672930905553643e-06</data>
+    </node>
+    <node id="BLR">
+      <data key="d0">EU</data>
+      <data key="d1">53.4250605</data>
+      <data key="d2">27.6971358</data>
+      <data key="d3">0.03206149029375594</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="VNM">
+      <data key="d0">AS</data>
+      <data key="d1">15.9266657</data>
+      <data key="d2">107.9650855</data>
+      <data key="d3">2.397411367035167e-07</data>
+      <data key="d4">1.6558355964713923e-07</data>
+    </node>
+    <node id="BRN">
+      <data key="d0">AS</data>
+      <data key="d1">4.4137155</data>
+      <data key="d2">114.5653908</data>
+      <data key="d3">7.620251981702822e-08</data>
+      <data key="d4">7.620251981702822e-08</data>
+    </node>
+    <node id="LBY">
+      <data key="d0">AF</data>
+      <data key="d1">26.8234472</data>
+      <data key="d2">18.1236723</data>
+      <data key="d3">0.008491210073648704</data>
+      <data key="d4">0.008491210073648704</data>
+    </node>
+    <node id="TUN">
+      <data key="d0">AF</data>
+      <data key="d1">33.8439408</data>
+      <data key="d2">9.400138</data>
+      <data key="d3">1.7471479711310067e-07</data>
+      <data key="d4">1.7471479711310067e-07</data>
+    </node>
+    <node id="SVN">
+      <data key="d0">EU</data>
+      <data key="d1">45.8133113</data>
+      <data key="d2">14.4808369</data>
+      <data key="d3">0.003736972154067711</data>
+      <data key="d4">0.0012581372869307213</data>
+    </node>
+    <node id="DEU">
+      <data key="d0">EU</data>
+      <data key="d1">51.1638175</data>
+      <data key="d2">10.4478313</data>
+      <data key="d3">0.10146836864423044</data>
+      <data key="d4">0.025069426053821352</data>
+    </node>
+    <node id="BEN">
+      <data key="d0">AF</data>
+      <data key="d1">9.5293472</data>
+      <data key="d2">2.2584408</data>
+      <data key="d3">1.676143014163966e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="ITA">
+      <data key="d0">EU</data>
+      <data key="d1">42.6384261</data>
+      <data key="d2">12.674297</data>
+      <data key="d3">0.11416560753012539</data>
+      <data key="d4">0.0013221094159250476</data>
+    </node>
+    <node id="LVA">
+      <data key="d0">EU</data>
+      <data key="d1">56.8406494</data>
+      <data key="d2">24.7537645</data>
+      <data key="d3">0.0026107336183949998</data>
+      <data key="d4">0.0007049540267425913</data>
+    </node>
+    <node id="TKM">
+      <data key="d0">AS</data>
+      <data key="d1">39.3763807</data>
+      <data key="d2">59.3924609</data>
+      <data key="d3">0.07664854757952357</data>
+      <data key="d4">0.07664854757952357</data>
+    </node>
+    <node id="AUT">
+      <data key="d0">EU</data>
+      <data key="d1">47.59397</data>
+      <data key="d2">14.12456</data>
+      <data key="d3">0.008855643867341523</data>
+      <data key="d4">0.008460734320088707</data>
+    </node>
+    <node id="COG">
+      <data key="d0">AF</data>
+      <data key="d1">-0.7264327</data>
+      <data key="d2">15.6419155</data>
+      <data key="d3">1.7471479711310067e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="BRA">
+      <data key="d0">SA</data>
+      <data key="d1">-10.3333333</data>
+      <data key="d2">-53.2</data>
+      <data key="d3">0.014502438919331177</data>
+      <data key="d4">1.9696775062657127e-08</data>
+    </node>
+    <node id="BEL">
+      <data key="d0">EU</data>
+      <data key="d1">50.6402809</data>
+      <data key="d2">4.6667145</data>
+      <data key="d3">0.09770640697720576</data>
+      <data key="d4">0.05187601622798548</data>
+    </node>
+    <node id="BWA">
+      <data key="d0">AF</data>
+      <data key="d1">-23.1681782</data>
+      <data key="d2">24.5928742</data>
+      <data key="d3">4.2317534253216994e-07</data>
+      <data key="d4">2.2642060677649979e-07</data>
+    </node>
+    <node id="CHL">
+      <data key="d0">SA</data>
+      <data key="d1">-31.7613365</data>
+      <data key="d2">-71.3187697</data>
+      <data key="d3">0.003091679900406762</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="EST">
+      <data key="d0">EU</data>
+      <data key="d1">58.7523778</data>
+      <data key="d2">25.3319078</data>
+      <data key="d3">0.001459182610819056</data>
+      <data key="d4">0.0002549979008020678</data>
+    </node>
+    <node id="NLD">
+      <data key="d0">EU</data>
+      <data key="d1">52.2434979</data>
+      <data key="d2">5.6343227</data>
+      <data key="d3">0.03688814879613102</data>
+      <data key="d4">0.02375323349516136</data>
+    </node>
+    <node id="AZE">
+      <data key="d0">AS</data>
+      <data key="d1">40.3936294</data>
+      <data key="d2">47.7872508</data>
+      <data key="d3">0.031158916534670913</data>
+      <data key="d4">0.031092457755279634</data>
+    </node>
+    <node id="IRQ">
+      <data key="d0">AS</data>
+      <data key="d1">33.0955793</data>
+      <data key="d2">44.1749775</data>
+      <data key="d3">1.5592688549962167e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="MDA">
+      <data key="d0">EU</data>
+      <data key="d1">46.6745434</data>
+      <data key="d2">29.7521996</data>
+      <data key="d3">1.2221941232822804e-06</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="PAK">
+      <data key="d0">AS</data>
+      <data key="d1">30.3308401</data>
+      <data key="d2">71.247499</data>
+      <data key="d3">7.035455156122274e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="MEX">
+      <data key="d0">NA</data>
+      <data key="d1">23.6585116</data>
+      <data key="d2">-102.0077097</data>
+      <data key="d3">0.05836406351090842</data>
+      <data key="d4">0.00016186592471323307</data>
+    </node>
+    <node id="KWT">
+      <data key="d0">AS</data>
+      <data key="d1">29.2733964</data>
+      <data key="d2">47.4979476</data>
+      <data key="d3">8.151369059816289e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="KAZ">
+      <data key="d0">AS</data>
+      <data key="d1">48.1012954</data>
+      <data key="d2">66.7780818</data>
+      <data key="d3">0.03180174105365544</data>
+      <data key="d4">0.026633412733776302</data>
+    </node>
+    <node id="EGY">
+      <data key="d0">AF</data>
+      <data key="d1">26.2540493</data>
+      <data key="d2">29.2675469</data>
+      <data key="d3">4.0685840342114404e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="MKD">
+      <data key="d0">EU</data>
+      <data key="d1">41.6171214</data>
+      <data key="d2">21.7168387</data>
+      <data key="d3">0.0009019077751916486</data>
+      <data key="d4">1.477939777286168e-06</data>
+    </node>
+    <node id="TJK">
+      <data key="d0">AS</data>
+      <data key="d1">38.6281733</data>
+      <data key="d2">70.8156541</data>
+      <data key="d3">0.0003250254177324917</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="DZA">
+      <data key="d0">AF</data>
+      <data key="d1">28.0000272</data>
+      <data key="d2">2.9999825</data>
+      <data key="d3">0.04827388890604628</data>
+      <data key="d4">0.04827388890604628</data>
+    </node>
+    <node id="ZWE">
+      <data key="d0">AF</data>
+      <data key="d1">-18.4554963</data>
+      <data key="d2">29.7468414</data>
+      <data key="d3">2.104302904675222e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="NOR">
+      <data key="d0">EU</data>
+      <data key="d1">60.5000209</data>
+      <data key="d2">9.0999715</data>
+      <data key="d3">0.17478154807788987</data>
+      <data key="d4">0.17478154807788987</data>
+    </node>
+    <node id="PER">
+      <data key="d0">SA</data>
+      <data key="d1">-6.8699697</data>
+      <data key="d2">-75.0458515</data>
+      <data key="d3">3.578649831138858e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="COM">
+      <data key="d0">AF</data>
+      <data key="d1">-12.2045176</data>
+      <data key="d2">44.2832964</data>
+      <data key="d3">4.26029741802245e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="SWZ">
+      <data key="d0">AF</data>
+      <data key="d1">-26.5624806</data>
+      <data key="d2">31.3991317</data>
+      <data key="d3">4.515716449224289e-06</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="ROU">
+      <data key="d0">EU</data>
+      <data key="d1">45.9852129</data>
+      <data key="d2">24.6859225</data>
+      <data key="d3">0.005026112747187702</data>
+      <data key="d4">0.00054774097165346</data>
+    </node>
+    <node id="DNK">
+      <data key="d0">EU</data>
+      <data key="d1">55.670249</data>
+      <data key="d2">10.3333283</data>
+      <data key="d3">0.006248629247175604</data>
+      <data key="d4">0.001502231623937956</data>
+    </node>
+    <node id="NAM">
+      <data key="d0">AF</data>
+      <data key="d1">-23.2335499</data>
+      <data key="d2">17.3231107</data>
+      <data key="d3">4.572719228677429e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="IDN">
+      <data key="d0">AS</data>
+      <data key="d1">-2.4833826</data>
+      <data key="d2">117.8902853</data>
+      <data key="d3">0.024769867330758623</data>
+      <data key="d4">0.02476968538765689</data>
+    </node>
+    <node id="THA">
+      <data key="d0">AS</data>
+      <data key="d1">14.8971921</data>
+      <data key="d2">100.83273</data>
+      <data key="d3">0.024250891574849838</data>
+      <data key="d4">5.453748734724473e-07</data>
+    </node>
+    <node id="SAU">
+      <data key="d0">AS</data>
+      <data key="d1">25.6242618</data>
+      <data key="d2">42.3528328</data>
+      <data key="d3">5.77895143763352e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="SWE">
+      <data key="d0">EU</data>
+      <data key="d1">59.6749712</data>
+      <data key="d2">14.5208584</data>
+      <data key="d3">0.0020250015581242554</data>
+      <data key="d4">0.00025260574380184817</data>
+    </node>
+    <node id="IRN">
+      <data key="d0">AS</data>
+      <data key="d1">32.6475314</data>
+      <data key="d2">54.5643516</data>
+      <data key="d3">0.0010385126781934679</data>
+      <data key="d4">0.0008826143508875384</data>
+    </node>
+    <node id="LUX">
+      <data key="d0">EU</data>
+      <data key="d1">49.8158683</data>
+      <data key="d2">6.1296751</data>
+      <data key="d3">0.0010588811459480419</data>
+      <data key="d4">1.490881140742981e-05</data>
+    </node>
+    <node id="HRV">
+      <data key="d0">EU</data>
+      <data key="d1">45.5643442</data>
+      <data key="d2">17.0118954</data>
+      <data key="d3">0.00428406840071191</data>
+      <data key="d4">0.0007225479047987211</data>
+    </node>
+    <node id="ESP">
+      <data key="d0">EU</data>
+      <data key="d1">39.3260685</data>
+      <data key="d2">-4.8379791</data>
+      <data key="d3">0.02917566613266013</data>
+      <data key="d4">0.0017366705932888814</data>
+    </node>
+    <node id="NGA">
+      <data key="d0">AF</data>
+      <data key="d1">9.6000359</data>
+      <data key="d2">7.9999721</data>
+      <data key="d3">0.00010943372013906972</data>
+      <data key="d4">0.00010943372013906972</data>
+    </node>
+    <node id="MNE">
+      <data key="d0">EU</data>
+      <data key="d1">42.9868853</data>
+      <data key="d2">19.5180992</data>
+      <data key="d3">3.254371612769522e-05</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="MYS">
+      <data key="d0">AS</data>
+      <data key="d1">4.5693754</data>
+      <data key="d2">102.2656823</data>
+      <data key="d3">0.005799822492674497</data>
+      <data key="d4">0.0041387243638174925</data>
+    </node>
+    <node id="TUR">
+      <data key="d0">AS</data>
+      <data key="d1">38.9597594</data>
+      <data key="d2">34.9249653</data>
+      <data key="d3">0.027910271997117462</data>
+      <data key="d4">0.0009512580096086574</data>
+    </node>
+    <node id="SMR">
+      <data key="d0">EU</data>
+      <data key="d1">43.9458623</data>
+      <data key="d2">12.458306</data>
+      <data key="d3">0.00013795577230811732</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="NER">
+      <data key="d0">AF</data>
+      <data key="d1">17.7356214</data>
+      <data key="d2">9.3238432</data>
+      <data key="d3">3.190962766098815e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="MAR">
+      <data key="d0">AF</data>
+      <data key="d1">31.1728205</data>
+      <data key="d2">-7.3362482</data>
+      <data key="d3">0.0018176363670361123</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="RUS">
+      <data key="d0">EU</data>
+      <data key="d1">64.6863136</data>
+      <data key="d2">97.7453061</data>
+      <data key="d3">0.17172572772569428</data>
+      <data key="d4">0.16834863970850072</data>
+    </node>
+    <node id="MMR">
+      <data key="d0">AS</data>
+      <data key="d1">17.1750495</data>
+      <data key="d2">95.9999652</data>
+      <data key="d3">0.043051182675360185</data>
+      <data key="d4">0.043051182675360185</data>
+    </node>
+    <node id="GUY">
+      <data key="d0">SA</data>
+      <data key="d1">4.8417097</data>
+      <data key="d2">-58.6416891</data>
+      <data key="d3">7.259830820138123e-07</data>
+      <data key="d4">7.259830820138123e-07</data>
+    </node>
+    <node id="SGP">
+      <data key="d0">AS</data>
+      <data key="d1">1.357107</data>
+      <data key="d2">103.8194992</data>
+      <data key="d3">0.02723904901719198</data>
+      <data key="d4">3.8227648731915447e-07</data>
+    </node>
+    <node id="MLT">
+      <data key="d0">EU</data>
+      <data key="d1">35.8885993</data>
+      <data key="d2">14.4476911</data>
+      <data key="d3">5.80116178817281e-06</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="GRC">
+      <data key="d0">EU</data>
+      <data key="d1">38.9953683</data>
+      <data key="d2">21.9877132</data>
+      <data key="d3">0.007728406078909414</data>
+      <data key="d4">0.0015825131939198526</data>
+    </node>
+    <node id="ARM">
+      <data key="d0">AS</data>
+      <data key="d1">40.7696272</data>
+      <data key="d2">44.6736646</data>
+      <data key="d3">0.0054758203557788415</data>
+      <data key="d4">4.514009490058802e-05</data>
+    </node>
+    <node id="SOM">
+      <data key="d0">AF</data>
+      <data key="d1">8.3676771</data>
+      <data key="d2">49.083416</data>
+      <data key="d3">6.170614780263716e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="BIH">
+      <data key="d0">EU</data>
+      <data key="d1">44.3053476</data>
+      <data key="d2">17.5961467</data>
+      <data key="d3">0.0007873968456046506</data>
+      <data key="d4">1.8374279337163207e-05</data>
+    </node>
+    <node id="HUN">
+      <data key="d0">EU</data>
+      <data key="d1">47.1817585</data>
+      <data key="d2">19.5060937</data>
+      <data key="d3">0.02905978147017069</data>
+      <data key="d4">0.009862260053791042</data>
+    </node>
+    <node id="KOR">
+      <data key="d0">AS</data>
+      <data key="d1">37.4926142</data>
+      <data key="d2">126.7240453</data>
+      <data key="d3">1.6068705781469206e-06</data>
+      <data key="d4">2.048066978757326e-07</data>
+    </node>
+    <node id="GEO">
+      <data key="d0">AS</data>
+      <data key="d1">41.6809707</data>
+      <data key="d2">44.0287382</data>
+      <data key="d3">0.004305892115059524</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="BOL">
+      <data key="d0">SA</data>
+      <data key="d1">-17.0568696</data>
+      <data key="d2">-64.9912286</data>
+      <data key="d3">0.028230988805659215</data>
+      <data key="d4">0.028230949653525943</data>
+    </node>
+    <node id="MDV">
+      <data key="d0">AS</data>
+      <data key="d1">3.7203503</data>
+      <data key="d2">73.2244152</data>
+      <data key="d3">1.728260652577774e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="LKA">
+      <data key="d0">AS</data>
+      <data key="d1">7.5554942</data>
+      <data key="d2">80.7137847</data>
+      <data key="d3">5.968676682649452e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="CAN">
+      <data key="d0">NA</data>
+      <data key="d1">61.0666922</data>
+      <data key="d2">-107.991707</data>
+      <data key="d3">0.09026207943306291</data>
+      <data key="d4">0.07119867361370275</data>
+    </node>
+    <node id="LSO">
+      <data key="d0">AF</data>
+      <data key="d1">-29.6039267</data>
+      <data key="d2">28.3350193</data>
+      <data key="d3">9.036090823625617e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="CYP">
+      <data key="d0">AS</data>
+      <data key="d1">34.9823018</data>
+      <data key="d2">33.1451285</data>
+      <data key="d3">1.2017432755766333e-05</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="CZE">
+      <data key="d0">EU</data>
+      <data key="d1">49.7439047</data>
+      <data key="d2">15.3381061</data>
+      <data key="d3">0.01590833701047462</data>
+      <data key="d4">0.00232084308648381</data>
+    </node>
+    <node id="FRA">
+      <data key="d0">EU</data>
+      <data key="d1">46.603354</data>
+      <data key="d2">1.8883335</data>
+      <data key="d3">0.09373374473224437</data>
+      <data key="d4">0.02096114574695106</data>
+    </node>
+    <node id="MUS">
+      <data key="d0">AF</data>
+      <data key="d1">-20.2759451</data>
+      <data key="d2">57.5703566</data>
+      <data key="d3">1.1698776709889647e-07</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="KEN">
+      <data key="d0">AF</data>
+      <data key="d1">1.4419683</data>
+      <data key="d2">38.4313975</data>
+      <data key="d3">1.4754830057751084e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="POL">
+      <data key="d0">EU</data>
+      <data key="d1">52.215933</data>
+      <data key="d2">19.134422</data>
+      <data key="d3">0.0003816944596868956</data>
+      <data key="d4">0.00037797043430686243</data>
+    </node>
+    <node id="UGA">
+      <data key="d0">AF</data>
+      <data key="d1">1.5333554</data>
+      <data key="d2">32.2166578</data>
+      <data key="d3">1.7211601568810696e-08</data>
+      <data key="d4">0.0</data>
+    </node>
+    <node id="ZAF">
+      <data key="d0">AF</data>
+      <data key="d1">-28.8166236</data>
+      <data key="d2">24.991639</data>
+      <data key="d3">0.00037687103615615894</data>
+      <data key="d4">5.048097415571768e-06</data>
+    </node>
+    <node id="MAC">
+      <data key="d0">AS</data>
+      <data key="d1">38.7604815</data>
+      <data key="d2">-92.5617875</data>
+      <data key="d3">0.00038913048220725173</data>
+      <data key="d4">0.0</data>
+    </node>
+    <edge source="UZB" target="CHN">
+      <data key="d5">403334.954</data>
+      <data key="d6">12.907525126404366</data>
+    </edge>
+    <edge source="UZB" target="KAZ">
+      <data key="d5">44752.422</data>
+      <data key="d6">10.708923190053119</data>
+    </edge>
+    <edge source="UZB" target="KGZ">
+      <data key="d5">31298.007</data>
+      <data key="d6">10.351341650785372</data>
+    </edge>
+    <edge source="UZB" target="POL">
+      <data key="d5">262.237</data>
+      <data key="d6">5.573054767078669</data>
+    </edge>
+    <edge source="UZB" target="RUS">
+      <data key="d5">106656.417</data>
+      <data key="d6">11.577377266722783</data>
+    </edge>
+    <edge source="UZB" target="TJK">
+      <data key="d5">22887.516</data>
+      <data key="d6">10.038390579040659</data>
+    </edge>
+    <edge source="CHN" target="COL">
+      <data key="d5">11.989</data>
+      <data key="d6">2.564102845425147</data>
+    </edge>
+    <edge source="CHN" target="COM">
+      <data key="d5">1.02</data>
+      <data key="d6">0.7030975114131134</data>
+    </edge>
+    <edge source="CHN" target="HKG">
+      <data key="d5">1651092.61</data>
+      <data key="d6">14.31694842026526</data>
+    </edge>
+    <edge source="CHN" target="KEN">
+      <data key="d5">1.039</data>
+      <data key="d6">0.712459491592318</data>
+    </edge>
+    <edge source="CHN" target="MAC">
+      <data key="d5">27401.642</data>
+      <data key="d6">10.218394711085393</data>
+    </edge>
+    <edge source="CHN" target="MUS">
+      <data key="d5">8.238</data>
+      <data key="d6">2.2233254120084136</data>
+    </edge>
+    <edge source="CHN" target="PAK">
+      <data key="d5">38.144</data>
+      <data key="d6">3.6672471539868225</data>
+    </edge>
+    <edge source="CHN" target="THA">
+      <data key="d5">108.165</data>
+      <data key="d6">4.6928604991150795</data>
+    </edge>
+    <edge source="BGR" target="AUT">
+      <data key="d5">5108.755</data>
+      <data key="d6">8.538906736842863</data>
+    </edge>
+    <edge source="BGR" target="GRC">
+      <data key="d5">831.294</data>
+      <data key="d6">6.724185743786981</data>
+    </edge>
+    <edge source="BGR" target="HUN">
+      <data key="d5">44398.752</data>
+      <data key="d6">10.70098916281913</data>
+    </edge>
+    <edge source="BGR" target="ITA">
+      <data key="d5">1005.822</data>
+      <data key="d6">6.914554114432831</data>
+    </edge>
+    <edge source="BGR" target="NLD">
+      <data key="d5">3071.558</data>
+      <data key="d6">8.030265718397901</data>
+    </edge>
+    <edge source="BGR" target="ROU">
+      <data key="d5">6508.635</data>
+      <data key="d6">8.781038666042443</data>
+    </edge>
+    <edge source="BGR" target="SRB">
+      <data key="d5">3205.787</data>
+      <data key="d6">8.073024780275086</data>
+    </edge>
+    <edge source="BGR" target="MKD">
+      <data key="d5">1618.939</data>
+      <data key="d6">7.390143773196501</data>
+    </edge>
+    <edge source="ECU" target="CAN">
+      <data key="d5">7.486</data>
+      <data key="d6">2.1384177467801333</data>
+    </edge>
+    <edge source="UKR" target="HUN">
+      <data key="d5">203970.676</data>
+      <data key="d6">12.225736420049499</data>
+    </edge>
+    <edge source="IRL" target="DNK">
+      <data key="d5">208.336</data>
+      <data key="d6">5.3439406165724535</data>
+    </edge>
+    <edge source="IRL" target="GBR">
+      <data key="d5">8376.264</data>
+      <data key="d6">9.03327664851935</data>
+    </edge>
+    <edge source="LTU" target="EST">
+      <data key="d5">1129.068</data>
+      <data key="d6">7.0300330868869745</data>
+    </edge>
+    <edge source="LTU" target="LVA">
+      <data key="d5">26700.015</data>
+      <data key="d6">10.192456858647063</data>
+    </edge>
+    <edge source="CHE" target="BEN">
+      <data key="d5">11.803</data>
+      <data key="d6">2.549679518464042</data>
+    </edge>
+    <edge source="CHE" target="FRA">
+      <data key="d5">9140.001</data>
+      <data key="d6">9.120525177051034</data>
+    </edge>
+    <edge source="CHE" target="DEU">
+      <data key="d5">2.129</data>
+      <data key="d6">1.1407134646867452</data>
+    </edge>
+    <edge source="CHE" target="UKR">
+      <data key="d5">344773.697</data>
+      <data key="d6">12.75064643050813</data>
+    </edge>
+    <edge source="SRB" target="BIH">
+      <data key="d5">45.162</data>
+      <data key="d6">3.8321569488175586</data>
+    </edge>
+    <edge source="SRB" target="HUN">
+      <data key="d5">86.939</data>
+      <data key="d6">4.476643392298425</data>
+    </edge>
+    <edge source="SRB" target="MNE">
+      <data key="d5">531.728</data>
+      <data key="d6">6.278010974959469</data>
+    </edge>
+    <edge source="AUS" target="GBR">
+      <data key="d5">1.38</data>
+      <data key="d6">0.8671004876833833</data>
+    </edge>
+    <edge source="PRT" target="ESP">
+      <data key="d5">12767.853</data>
+      <data key="d6">9.45476412510217</data>
+    </edge>
+    <edge source="FIN" target="EST">
+      <data key="d5">370.777</data>
+      <data key="d6">5.918294212158152</data>
+    </edge>
+    <edge source="FIN" target="SWE">
+      <data key="d5">351.88</data>
+      <data key="d6">5.866128055796684</data>
+    </edge>
+    <edge source="MOZ" target="ZAF">
+      <data key="d5">26182.886</data>
+      <data key="d6">10.172899462367688</data>
+    </edge>
+    <edge source="ARG" target="BRA">
+      <data key="d5">3.688</data>
+      <data key="d6">1.5450060522747115</data>
+    </edge>
+    <edge source="ARG" target="CHL">
+      <data key="d5">217708.737</data>
+      <data key="d6">12.290917972910533</data>
+    </edge>
+    <edge source="ARG" target="URY">
+      <data key="d5">25567.556</data>
+      <data key="d6">10.149118594261978</data>
+    </edge>
+    <edge source="ARE" target="COM">
+      <data key="d5">1.98</data>
+      <data key="d6">1.091923300517313</data>
+    </edge>
+    <edge source="ARE" target="IRQ">
+      <data key="d5">10.98</data>
+      <data key="d6">2.4832385926873033</data>
+    </edge>
+    <edge source="ARE" target="PAK">
+      <data key="d5">6.67</data>
+      <data key="d6">2.0373166153791646</data>
+    </edge>
+    <edge source="ARE" target="SAU">
+      <data key="d5">40.694</data>
+      <data key="d6">3.7303572335602455</data>
+    </edge>
+    <edge source="ARE" target="SOM">
+      <data key="d5">43.452</data>
+      <data key="d6">3.7944099553234</data>
+    </edge>
+    <edge source="ARE" target="EGY">
+      <data key="d5">2.865</data>
+      <data key="d6">1.3519616820393854</data>
+    </edge>
+    <edge source="GBR" target="BEL">
+      <data key="d5">75588.802</data>
+      <data key="d6">11.233076658888692</data>
+    </edge>
+    <edge source="GBR" target="BOL">
+      <data key="d5">2.757</data>
+      <data key="d6">1.3236207665918318</data>
+    </edge>
+    <edge source="GBR" target="BRA">
+      <data key="d5">4.026</data>
+      <data key="d6">1.6146244391214004</data>
+    </edge>
+    <edge source="GBR" target="COL">
+      <data key="d5">9.338</data>
+      <data key="d6">2.3358264267738473</data>
+    </edge>
+    <edge source="GBR" target="GRC">
+      <data key="d5">3821.756</data>
+      <data key="d6">8.248726907437746</data>
+    </edge>
+    <edge source="GBR" target="IRL">
+      <data key="d5">464522.637</data>
+      <data key="d6">13.048767722916574</data>
+    </edge>
+    <edge source="GBR" target="ISR">
+      <data key="d5">108159.164</data>
+      <data key="d6">11.591368407547831</data>
+    </edge>
+    <edge source="GBR" target="KOR">
+      <data key="d5">1.451</data>
+      <data key="d6">0.8964961045459755</data>
+    </edge>
+    <edge source="GBR" target="NLD">
+      <data key="d5">246902.297</data>
+      <data key="d6">12.41675202882856</data>
+    </edge>
+    <edge source="GBR" target="PAK">
+      <data key="d5">1.399</data>
+      <data key="d6">0.8750519838575576</data>
+    </edge>
+    <edge source="GBR" target="SGP">
+      <data key="d5">2.078</data>
+      <data key="d6">1.1242800354166875</data>
+    </edge>
+    <edge source="GBR" target="CHE">
+      <data key="d5">74.401</data>
+      <data key="d6">4.322820537525432</data>
+    </edge>
+    <edge source="GBR" target="UKR">
+      <data key="d5">76747.937</data>
+      <data key="d6">11.248294815190663</data>
+    </edge>
+    <edge source="SVK" target="HUN">
+      <data key="d5">45714.559</data>
+      <data key="d6">10.730193978457704</data>
+    </edge>
+    <edge source="SVK" target="UKR">
+      <data key="d5">124826.6</data>
+      <data key="d6">11.73468886431271</data>
+    </edge>
+    <edge source="HKG" target="CHN">
+      <data key="d5">17.673</data>
+      <data key="d6">2.927078630236943</data>
+    </edge>
+    <edge source="USA" target="AUS">
+      <data key="d5">5.757</data>
+      <data key="d6">1.9105790045700375</data>
+    </edge>
+    <edge source="USA" target="CAN">
+      <data key="d5">1342386.31</data>
+      <data key="d6">14.10996016143228</data>
+    </edge>
+    <edge source="USA" target="CHN">
+      <data key="d5">40.758</data>
+      <data key="d6">3.7318910497071838</data>
+    </edge>
+    <edge source="USA" target="COL">
+      <data key="d5">24.724</data>
+      <data key="d6">3.2474244082726167</data>
+    </edge>
+    <edge source="USA" target="GRC">
+      <data key="d5">1242.006</data>
+      <data key="d6">7.125287918530437</data>
+    </edge>
+    <edge source="USA" target="HKG">
+      <data key="d5">36.455</data>
+      <data key="d6">3.6231402123998464</data>
+    </edge>
+    <edge source="USA" target="ISR">
+      <data key="d5">20.367</data>
+      <data key="d6">3.061847675760851</data>
+    </edge>
+    <edge source="USA" target="JPN">
+      <data key="d5">5.392</data>
+      <data key="d6">1.8550472084639735</data>
+    </edge>
+    <edge source="USA" target="KOR">
+      <data key="d5">97.279</data>
+      <data key="d6">4.587810372591037</data>
+    </edge>
+    <edge source="USA" target="KWT">
+      <data key="d5">5.74</data>
+      <data key="d6">1.9080599249242156</data>
+    </edge>
+    <edge source="USA" target="MEX">
+      <data key="d5">4098460.169</data>
+      <data key="d6">15.22612213658847</data>
+    </edge>
+    <edge source="USA" target="NER">
+      <data key="d5">2.247</data>
+      <data key="d6">1.1777314931207088</data>
+    </edge>
+    <edge source="USA" target="PAK">
+      <data key="d5">3.329</data>
+      <data key="d6">1.4653365684598436</data>
+    </edge>
+    <edge source="USA" target="PER">
+      <data key="d5">2.52</data>
+      <data key="d6">1.2584609896100056</data>
+    </edge>
+    <edge source="USA" target="SGP">
+      <data key="d5">12.686</data>
+      <data key="d6">2.616373412530306</data>
+    </edge>
+    <edge source="USA" target="THA">
+      <data key="d5">4.528</data>
+      <data key="d6">1.7098260864653687</data>
+    </edge>
+    <edge source="USA" target="ARE">
+      <data key="d5">1531.866</data>
+      <data key="d6">7.334894464744722</data>
+    </edge>
+    <edge source="USA" target="UKR">
+      <data key="d5">7043.294</data>
+      <data key="d6">8.859973206394168</data>
+    </edge>
+    <edge source="JPN" target="CHN">
+      <data key="d5">60.555</data>
+      <data key="d6">4.119931084099578</data>
+    </edge>
+    <edge source="JPN" target="ISR">
+      <data key="d5">8.872</data>
+      <data key="d6">2.289702467163032</data>
+    </edge>
+    <edge source="JPN" target="THA">
+      <data key="d5">5.168</data>
+      <data key="d6">1.8193746362610284</data>
+    </edge>
+    <edge source="JPN" target="GBR">
+      <data key="d5">7.603</data>
+      <data key="d6">2.152110979639211</data>
+    </edge>
+    <edge source="VNM" target="MYS">
+      <data key="d5">11.66</data>
+      <data key="d6">2.5384474167160302</data>
+    </edge>
+    <edge source="BRN" target="MYS">
+      <data key="d5">5.366</data>
+      <data key="d6">1.850971328859901</data>
+    </edge>
+    <edge source="LBY" target="ITA">
+      <data key="d5">597930.795</data>
+      <data key="d6">13.301231971244036</data>
+    </edge>
+    <edge source="TUN" target="COG">
+      <data key="d5">12.303</data>
+      <data key="d6">2.5879895737017686</data>
+    </edge>
+    <edge source="SVN" target="HRV">
+      <data key="d5">88595.032</data>
+      <data key="d6">11.391842350037223</data>
+    </edge>
+    <edge source="DEU" target="BEL">
+      <data key="d5">103459.606</data>
+      <data key="d6">11.546946200876521</data>
+    </edge>
+    <edge source="DEU" target="BGR">
+      <data key="d5">25.941</data>
+      <data key="d6">3.2936492898181755</data>
+    </edge>
+    <edge source="DEU" target="CZE">
+      <data key="d5">238906.761</data>
+      <data key="d6">12.383832819182212</data>
+    </edge>
+    <edge source="DEU" target="DNK">
+      <data key="d5">313246.178</data>
+      <data key="d6">12.654747863938805</data>
+    </edge>
+    <edge source="DEU" target="FRA">
+      <data key="d5">551865.564</data>
+      <data key="d6">13.221061564153313</data>
+    </edge>
+    <edge source="DEU" target="HUN">
+      <data key="d5">1729.225</data>
+      <data key="d6">7.45600673683851</data>
+    </edge>
+    <edge source="DEU" target="IRL">
+      <data key="d5">4038.796</data>
+      <data key="d6">8.303949474630773</data>
+    </edge>
+    <edge source="DEU" target="SVN">
+      <data key="d5">3993.537</data>
+      <data key="d6">8.29268295661546</data>
+    </edge>
+    <edge source="DEU" target="ESP">
+      <data key="d5">7.792</data>
+      <data key="d6">2.17384221710132</data>
+    </edge>
+    <edge source="DEU" target="SWE">
+      <data key="d5">13923.252</data>
+      <data key="d6">9.541387347015188</data>
+    </edge>
+    <edge source="DEU" target="CHE">
+      <data key="d5">357324.415</data>
+      <data key="d6">12.786402172184324</data>
+    </edge>
+    <edge source="DEU" target="ARE">
+      <data key="d5">28.458</data>
+      <data key="d6">3.3829655200673514</data>
+    </edge>
+    <edge source="DEU" target="UKR">
+      <data key="d5">176776.397</data>
+      <data key="d6">12.082646575990184</data>
+    </edge>
+    <edge source="DEU" target="USA">
+      <data key="d5">3.368</data>
+      <data key="d6">1.474305238442604</data>
+    </edge>
+    <edge source="ITA" target="BGR">
+      <data key="d5">3091.289</data>
+      <data key="d6">8.036666872351187</data>
+    </edge>
+    <edge source="ITA" target="CZE">
+      <data key="d5">59.363</data>
+      <data key="d6">4.10037633445382</data>
+    </edge>
+    <edge source="ITA" target="SMR">
+      <data key="d5">9714.517</data>
+      <data key="d6">9.181479577070828</data>
+    </edge>
+    <edge source="ITA" target="SVN">
+      <data key="d5">521.476</data>
+      <data key="d6">6.258579049769659</data>
+    </edge>
+    <edge source="ITA" target="CHE">
+      <data key="d5">79713.152</data>
+      <data key="d6">11.286202414887374</data>
+    </edge>
+    <edge source="LVA" target="EST">
+      <data key="d5">18090.978</data>
+      <data key="d6">9.80322391458992</data>
+    </edge>
+    <edge source="LVA" target="FIN">
+      <data key="d5">27336.554</data>
+      <data key="d6">10.216016640291715</data>
+    </edge>
+    <edge source="LVA" target="LTU">
+      <data key="d5">4213.652</data>
+      <data key="d6">8.346322304749924</data>
+    </edge>
+    <edge source="TKM" target="CHN">
+      <data key="d5">5340661.762</data>
+      <data key="d6">15.490860315969112</data>
+    </edge>
+    <edge source="TKM" target="KAZ">
+      <data key="d5">13173.262</data>
+      <data key="d6">9.486020356660388</data>
+    </edge>
+    <edge source="TKM" target="UZB">
+      <data key="d5">43573.189</data>
+      <data key="d6">10.68222025862581</data>
+    </edge>
+    <edge source="AUT" target="BGR">
+      <data key="d5">6696.523</data>
+      <data key="d6">8.809493035530075</data>
+    </edge>
+    <edge source="AUT" target="CZE">
+      <data key="d5">17.691</data>
+      <data key="d6">2.928042124584041</data>
+    </edge>
+    <edge source="AUT" target="HUN">
+      <data key="d5">465478.903</data>
+      <data key="d6">13.050824201834951</data>
+    </edge>
+    <edge source="AUT" target="SVN">
+      <data key="d5">100425.495</data>
+      <data key="d6">11.517181345848067</data>
+    </edge>
+    <edge source="AUT" target="SWE">
+      <data key="d5">4547.653</data>
+      <data key="d6">8.42258642415929</data>
+    </edge>
+    <edge source="AUT" target="CHE">
+      <data key="d5">3924.108</data>
+      <data key="d6">8.27514914576152</data>
+    </edge>
+    <edge source="AUT" target="UKR">
+      <data key="d5">14694.392</data>
+      <data key="d6">9.595289254237274</data>
+    </edge>
+    <edge source="BRA" target="GRC">
+      <data key="d5">1.387</data>
+      <data key="d6">0.870037347356693</data>
+    </edge>
+    <edge source="BEL" target="FRA">
+      <data key="d5">2823662.129</data>
+      <data key="d6">14.853545581882086</data>
+    </edge>
+    <edge source="BEL" target="DEU">
+      <data key="d5">64868.841</data>
+      <data key="d6">11.08013809514814</data>
+    </edge>
+    <edge source="BEL" target="LUX">
+      <data key="d5">65883.976</data>
+      <data key="d6">11.095665712708207</data>
+    </edge>
+    <edge source="BEL" target="MNE">
+      <data key="d5">1041.552</data>
+      <data key="d6">6.949426832524909</data>
+    </edge>
+    <edge source="BEL" target="NLD">
+      <data key="d5">672495.187</data>
+      <data key="d6">13.418751720553582</data>
+    </edge>
+    <edge source="BEL" target="ESP">
+      <data key="d5">4.145</data>
+      <data key="d6">1.638025369286013</data>
+    </edge>
+    <edge source="BEL" target="GBR">
+      <data key="d5">25029.711</data>
+      <data key="d6">10.127858789935283</data>
+    </edge>
+    <edge source="BWA" target="NAM">
+      <data key="d5">1.126</data>
+      <data key="d6">0.7542422799197561</data>
+    </edge>
+    <edge source="BWA" target="ZWE">
+      <data key="d5">14.818</data>
+      <data key="d6">2.7611485320972253</data>
+    </edge>
+    <edge source="EST" target="FIN">
+      <data key="d5">16360.283</data>
+      <data key="d6">9.702673030064702</data>
+    </edge>
+    <edge source="EST" target="LVA">
+      <data key="d5">425.657</data>
+      <data key="d6">6.055980411738896</data>
+    </edge>
+    <edge source="EST" target="LTU">
+      <data key="d5">1158.74</data>
+      <data key="d6">7.055951121046716</data>
+    </edge>
+    <edge source="EST" target="PRT">
+      <data key="d5">11.665</data>
+      <data key="d6">2.5388422834536386</data>
+    </edge>
+    <edge source="NLD" target="BEL">
+      <data key="d5">1350457.664</data>
+      <data key="d6">14.115954843823383</data>
+    </edge>
+    <edge source="NLD" target="BGR">
+      <data key="d5">23495.733</data>
+      <data key="d6">10.0646166691913</data>
+    </edge>
+    <edge source="NLD" target="ITA">
+      <data key="d5">164738.04</data>
+      <data key="d6">12.012117925113929</data>
+    </edge>
+    <edge source="NLD" target="ESP">
+      <data key="d5">17.788</data>
+      <data key="d6">2.9332183681647486</data>
+    </edge>
+    <edge source="NLD" target="SWE">
+      <data key="d5">545.566</data>
+      <data key="d6">6.3036550688516515</data>
+    </edge>
+    <edge source="NLD" target="CHE">
+      <data key="d5">41044.665</data>
+      <data key="d6">10.62244050638093</data>
+    </edge>
+    <edge source="NLD" target="ARE">
+      <data key="d5">1.312</data>
+      <data key="d6">0.8381129508101312</data>
+    </edge>
+    <edge source="NLD" target="GBR">
+      <data key="d5">92345.376</data>
+      <data key="d6">11.433301742843321</data>
+    </edge>
+    <edge source="AZE" target="GEO">
+      <data key="d5">263048.233</data>
+      <data key="d6">12.480096491359227</data>
+    </edge>
+    <edge source="AZE" target="GRC">
+      <data key="d5">17041.046</data>
+      <data key="d6">9.743438863597966</data>
+    </edge>
+    <edge source="AZE" target="IRN">
+      <data key="d5">10977.989</data>
+      <data key="d6">9.303738634321489</data>
+    </edge>
+    <edge source="AZE" target="TUR">
+      <data key="d5">1898389.573</data>
+      <data key="d6">14.456517018330722</data>
+    </edge>
+    <edge source="MEX" target="USA">
+      <data key="d5">11398.213</data>
+      <data key="d6">9.341299596911837</data>
+    </edge>
+    <edge source="KAZ" target="CHN">
+      <data key="d5">1408257.655</data>
+      <data key="d6">14.157864502663868</data>
+    </edge>
+    <edge source="KAZ" target="DEU">
+      <data key="d5">36631.652</data>
+      <data key="d6">10.50869525282453</data>
+    </edge>
+    <edge source="KAZ" target="KGZ">
+      <data key="d5">41819.641</data>
+      <data key="d6">10.64114530045961</data>
+    </edge>
+    <edge source="KAZ" target="RUS">
+      <data key="d5">131140.88</data>
+      <data key="d6">11.784035069539163</data>
+    </edge>
+    <edge source="KAZ" target="CHE">
+      <data key="d5">160486.506</data>
+      <data key="d6">11.985971374285427</data>
+    </edge>
+    <edge source="KAZ" target="UKR">
+      <data key="d5">88184.531</data>
+      <data key="d6">11.387198180918553</data>
+    </edge>
+    <edge source="KAZ" target="UZB">
+      <data key="d5">8940.643</data>
+      <data key="d6">9.09847463204257</data>
+    </edge>
+    <edge source="MKD" target="SRB">
+      <data key="d5">104.073</data>
+      <data key="d6">4.654655346686714</data>
+    </edge>
+    <edge source="DZA" target="ITA">
+      <data key="d5">1905286.818</data>
+      <data key="d6">14.460143640694968</data>
+    </edge>
+    <edge source="DZA" target="MAR">
+      <data key="d5">127993.625</data>
+      <data key="d6">11.759743549832558</data>
+    </edge>
+    <edge source="DZA" target="ESP">
+      <data key="d5">1366051.869</data>
+      <data key="d6">14.12743602187782</data>
+    </edge>
+    <edge source="NOR" target="BEL">
+      <data key="d5">1558187.026</data>
+      <data key="d6">14.259034182341603</data>
+    </edge>
+    <edge source="NOR" target="DNK">
+      <data key="d5">7085.388</data>
+      <data key="d6">8.86593103978299</data>
+    </edge>
+    <edge source="NOR" target="FRA">
+      <data key="d5">1719778.939</data>
+      <data key="d6">14.357706898162442</data>
+    </edge>
+    <edge source="NOR" target="DEU">
+      <data key="d5">5241820.589</data>
+      <data key="d6">15.472179627375949</data>
+    </edge>
+    <edge source="NOR" target="ITA">
+      <data key="d5">389601.879</data>
+      <data key="d6">12.872883240353604</data>
+    </edge>
+    <edge source="NOR" target="ESP">
+      <data key="d5">165141.52</data>
+      <data key="d6">12.01456413763457</data>
+    </edge>
+    <edge source="NOR" target="GBR">
+      <data key="d5">3226085.103</data>
+      <data key="d6">14.986780227639692</data>
+    </edge>
+    <edge source="ROU" target="BGR">
+      <data key="d5">6724.511</data>
+      <data key="d6">8.813663186713427</data>
+    </edge>
+    <edge source="ROU" target="HUN">
+      <data key="d5">31760.04</data>
+      <data key="d6">10.365995660416887</data>
+    </edge>
+    <edge source="ROU" target="MDA">
+      <data key="d5">86.064</data>
+      <data key="d6">4.466643480393761</data>
+    </edge>
+    <edge source="DNK" target="BGR">
+      <data key="d5">18.015</data>
+      <data key="d6">2.945228141380223</data>
+    </edge>
+    <edge source="DNK" target="IRL">
+      <data key="d5">224.484</data>
+      <data key="d6">5.418249202988612</data>
+    </edge>
+    <edge source="DNK" target="SWE">
+      <data key="d5">105439.542</data>
+      <data key="d6">11.56590249008731</data>
+    </edge>
+    <edge source="DNK" target="CHE">
+      <data key="d5">101.533</data>
+      <data key="d6">4.630184697982802</data>
+    </edge>
+    <edge source="IDN" target="MYS">
+      <data key="d5">116950.62</data>
+      <data key="d6">11.669515623989922</data>
+    </edge>
+    <edge source="IDN" target="SGP">
+      <data key="d5">1626628.175</data>
+      <data key="d6">14.30202044073987</data>
+    </edge>
+    <edge source="IDN" target="USA">
+      <data key="d5">643.471</data>
+      <data key="d6">6.468429825245862</data>
+    </edge>
+    <edge source="THA" target="HKG">
+      <data key="d5">38.404</data>
+      <data key="d6">3.673867333993433</data>
+    </edge>
+    <edge source="SWE" target="AUT">
+      <data key="d5">4995.055</data>
+      <data key="d6">8.516403879991918</data>
+    </edge>
+    <edge source="SWE" target="DNK">
+      <data key="d5">12792.84</data>
+      <data key="d6">9.45671908406976</data>
+    </edge>
+    <edge source="IRN" target="AZE">
+      <data key="d5">4679.869</data>
+      <data key="d6">8.45123905543528</data>
+    </edge>
+    <edge source="IRN" target="ARM">
+      <data key="d5">57471.732</data>
+      <data key="d6">10.959065888217733</data>
+    </edge>
+    <edge source="LUX" target="BEL">
+      <data key="d5">1049.843</data>
+      <data key="d6">6.957347978177029</data>
+    </edge>
+    <edge source="HRV" target="HUN">
+      <data key="d5">27209.378</data>
+      <data key="d6">10.211353723632287</data>
+    </edge>
+    <edge source="HRV" target="ITA">
+      <data key="d5">23655.128</data>
+      <data key="d6">10.07137747240709</data>
+    </edge>
+    <edge source="HRV" target="SVN">
+      <data key="d5">15.597</data>
+      <data key="d6">2.8092219561385816</data>
+    </edge>
+    <edge source="ESP" target="CAN">
+      <data key="d5">5.85</data>
+      <data key="d6">1.9242486522741338</data>
+    </edge>
+    <edge source="ESP" target="FRA">
+      <data key="d5">16951.915</data>
+      <data key="d6">9.73819507442353</data>
+    </edge>
+    <edge source="ESP" target="PRT">
+      <data key="d5">105334.443</data>
+      <data key="d6">11.564905232181385</data>
+    </edge>
+    <edge source="NGA" target="GRC">
+      <data key="d5">7706.062</data>
+      <data key="d6">8.949892330380383</data>
+    </edge>
+    <edge source="MYS" target="SGP">
+      <data key="d5">291439.115</data>
+      <data key="d6">12.582589826274736</data>
+    </edge>
+    <edge source="TUR" target="GRC">
+      <data key="d5">66975.928</data>
+      <data key="d6">11.112103480859245</data>
+    </edge>
+    <edge source="TUR" target="IDN">
+      <data key="d5">8.184</data>
+      <data key="d6">2.2174628395772107</data>
+    </edge>
+    <edge source="TUR" target="UGA">
+      <data key="d5">1.212</data>
+      <data key="d6">0.7938970836600883</data>
+    </edge>
+    <edge source="RUS" target="ARM">
+      <data key="d5">324943.841</data>
+      <data key="d6">12.691410726907806</data>
+    </edge>
+    <edge source="RUS" target="BIH">
+      <data key="d5">54107.576</data>
+      <data key="d6">10.898747973528337</data>
+    </edge>
+    <edge source="RUS" target="BGR">
+      <data key="d5">296710.23</data>
+      <data key="d6">12.600514655242444</data>
+    </edge>
+    <edge source="RUS" target="BLR">
+      <data key="d5">2257693.805</data>
+      <data key="d6">14.62985485290911</data>
+    </edge>
+    <edge source="RUS" target="CHN">
+      <data key="d5">574623.758</data>
+      <data key="d6">13.261472511964216</data>
+    </edge>
+    <edge source="RUS" target="CZE">
+      <data key="d5">715529.498</data>
+      <data key="d6">13.480779501808179</data>
+    </edge>
+    <edge source="RUS" target="EST">
+      <data key="d5">65204.997</data>
+      <data key="d6">11.085306722212586</data>
+    </edge>
+    <edge source="RUS" target="GEO">
+      <data key="d5">36983.779</data>
+      <data key="d6">10.518261728608685</data>
+    </edge>
+    <edge source="RUS" target="GRC">
+      <data key="d5">329500.861</data>
+      <data key="d6">12.70533728086019</data>
+    </edge>
+    <edge source="RUS" target="HUN">
+      <data key="d5">531495.275</data>
+      <data key="d6">13.183451468272976</data>
+    </edge>
+    <edge source="RUS" target="ITA">
+      <data key="d5">4144000.78</data>
+      <data key="d6">15.237172492458043</data>
+    </edge>
+    <edge source="RUS" target="KAZ">
+      <data key="d5">306015.69</data>
+      <data key="d6">12.631394921930791</data>
+    </edge>
+    <edge source="RUS" target="KGZ">
+      <data key="d5">36945.642</data>
+      <data key="d6">10.517230042679568</data>
+    </edge>
+    <edge source="RUS" target="LVA">
+      <data key="d5">107074.789</data>
+      <data key="d6">11.581292171123245</data>
+    </edge>
+    <edge source="RUS" target="LTU">
+      <data key="d5">79132.573</data>
+      <data key="d6">11.278892501128649</data>
+    </edge>
+    <edge source="RUS" target="ROU">
+      <data key="d5">174326.18</data>
+      <data key="d6">12.068689157388906</data>
+    </edge>
+    <edge source="RUS" target="SRB">
+      <data key="d5">335647.449</data>
+      <data key="d6">12.723819608471372</data>
+    </edge>
+    <edge source="RUS" target="SVK">
+      <data key="d5">1350268.938</data>
+      <data key="d6">14.115815084500534</data>
+    </edge>
+    <edge source="RUS" target="SVN">
+      <data key="d5">65703.636</data>
+      <data key="d6">11.092924765149144</data>
+    </edge>
+    <edge source="RUS" target="CHE">
+      <data key="d5">7013.871</data>
+      <data key="d6">8.855787603201406</data>
+    </edge>
+    <edge source="RUS" target="MKD">
+      <data key="d5">61787.186</data>
+      <data key="d6">11.031467460122872</data>
+    </edge>
+    <edge source="MMR" target="CHN">
+      <data key="d5">1324040.676</data>
+      <data key="d6">14.096199492325079</data>
+    </edge>
+    <edge source="MMR" target="THA">
+      <data key="d5">1707521.099</data>
+      <data key="d6">14.350553812656655</data>
+    </edge>
+    <edge source="GUY" target="USA">
+      <data key="d5">51.122</data>
+      <data key="d6">3.9535871245058383</data>
+    </edge>
+    <edge source="SGP" target="LKA">
+      <data key="d5">4.203</data>
+      <data key="d6">1.6492353823081665</data>
+    </edge>
+    <edge source="SGP" target="HKG">
+      <data key="d5">1.265</data>
+      <data key="d6">0.8175747589349972</data>
+    </edge>
+    <edge source="SGP" target="IDN">
+      <data key="d5">4.628</data>
+      <data key="d6">1.7277541392521427</data>
+    </edge>
+    <edge source="SGP" target="MYS">
+      <data key="d5">2.929</data>
+      <data key="d6">1.3683849405763227</data>
+    </edge>
+    <edge source="SGP" target="MDV">
+      <data key="d5">1.217</data>
+      <data key="d6">0.7961549306341744</data>
+    </edge>
+    <edge source="SGP" target="THA">
+      <data key="d5">12.677</data>
+      <data key="d6">2.615715589899414</data>
+    </edge>
+    <edge source="GRC" target="BGR">
+      <data key="d5">107771.013</data>
+      <data key="d6">11.587773284083966</data>
+    </edge>
+    <edge source="GRC" target="DNK">
+      <data key="d5">5.716</data>
+      <data key="d6">1.9044927392152944</data>
+    </edge>
+    <edge source="GRC" target="FRA">
+      <data key="d5">3074.594</data>
+      <data key="d6">8.031253332317263</data>
+    </edge>
+    <edge source="GRC" target="ITA">
+      <data key="d5">216.944</data>
+      <data key="d6">5.384238149055637</data>
+    </edge>
+    <edge source="GRC" target="NLD">
+      <data key="d5">368.544</data>
+      <data key="d6">5.912269813136434</data>
+    </edge>
+    <edge source="ARM" target="GEO">
+      <data key="d5">3178.658</data>
+      <data key="d6">8.0645289228208</data>
+    </edge>
+    <edge source="BIH" target="MNE">
+      <data key="d5">718.371</data>
+      <data key="d6">6.578377219078412</data>
+    </edge>
+    <edge source="BIH" target="SRB">
+      <data key="d5">575.502</data>
+      <data key="d6">6.35697880891385</data>
+    </edge>
+    <edge source="HUN" target="AUT">
+      <data key="d5">17704.78</data>
+      <data key="d6">9.781646418927192</data>
+    </edge>
+    <edge source="HUN" target="BGR">
+      <data key="d5">7447.496</data>
+      <data key="d6">8.915767411798626</data>
+    </edge>
+    <edge source="HUN" target="HRV">
+      <data key="d5">151844.31</data>
+      <data key="d6">11.930617584254412</data>
+    </edge>
+    <edge source="HUN" target="CYP">
+      <data key="d5">846.239</data>
+      <data key="d6">6.7419828272219995</data>
+    </edge>
+    <edge source="HUN" target="CZE">
+      <data key="d5">2285.656</data>
+      <data key="d6">7.73484576731791</data>
+    </edge>
+    <edge source="HUN" target="DEU">
+      <data key="d5">35115.716</data>
+      <data key="d6">10.466432535404245</data>
+    </edge>
+    <edge source="HUN" target="LUX">
+      <data key="d5">7630.07</data>
+      <data key="d6">8.939983350357245</data>
+    </edge>
+    <edge source="HUN" target="MLT">
+      <data key="d5">408.504</data>
+      <data key="d6">6.014946671255186</data>
+    </edge>
+    <edge source="HUN" target="NLD">
+      <data key="d5">2091.874</data>
+      <data key="d6">7.646293519964971</data>
+    </edge>
+    <edge source="HUN" target="ROU">
+      <data key="d5">134521.462</data>
+      <data key="d6">11.809486467797935</data>
+    </edge>
+    <edge source="HUN" target="SRB">
+      <data key="d5">118545.21</data>
+      <data key="d6">11.683058121349445</data>
+    </edge>
+    <edge source="HUN" target="SVK">
+      <data key="d5">4255.403</data>
+      <data key="d6">8.356179716388304</data>
+    </edge>
+    <edge source="HUN" target="SVN">
+      <data key="d5">3893.908</data>
+      <data key="d6">8.267425338000217</data>
+    </edge>
+    <edge source="HUN" target="ESP">
+      <data key="d5">3.907</data>
+      <data key="d6">1.5906627571077663</data>
+    </edge>
+    <edge source="HUN" target="UKR">
+      <data key="d5">204617.795</data>
+      <data key="d6">12.22890399045068</data>
+    </edge>
+    <edge source="HUN" target="GBR">
+      <data key="d5">3264.54</data>
+      <data key="d6">8.09118041854039</data>
+    </edge>
+    <edge source="KOR" target="RUS">
+      <data key="d5">9.2</data>
+      <data key="d6">2.322387720290225</data>
+    </edge>
+    <edge source="KOR" target="VNM">
+      <data key="d5">5.222</data>
+      <data key="d6">1.8280913984754454</data>
+    </edge>
+    <edge source="BOL" target="ARG">
+      <data key="d5">966738.138</data>
+      <data key="d6">13.781683973823284</data>
+    </edge>
+    <edge source="BOL" target="BRA">
+      <data key="d5">1021218.116</data>
+      <data key="d6">13.8365076833282</data>
+    </edge>
+    <edge source="CAN" target="ESP">
+      <data key="d5">1.181</data>
+      <data key="d6">0.779783487219492</data>
+    </edge>
+    <edge source="CAN" target="USA">
+      <data key="d5">5013639.884</data>
+      <data key="d6">15.427672932478789</data>
+    </edge>
+    <edge source="CZE" target="HRV">
+      <data key="d5">10354.451</data>
+      <data key="d6">9.24526832671997</data>
+    </edge>
+    <edge source="CZE" target="DNK">
+      <data key="d5">891.561</data>
+      <data key="d6">6.794094858657157</data>
+    </edge>
+    <edge source="CZE" target="DEU">
+      <data key="d5">1392.697</data>
+      <data key="d6">7.239715207579558</data>
+    </edge>
+    <edge source="CZE" target="SRB">
+      <data key="d5">15.617</data>
+      <data key="d6">2.8104262677190768</data>
+    </edge>
+    <edge source="CZE" target="SVK">
+      <data key="d5">143468.242</data>
+      <data key="d6">11.873875949743983</data>
+    </edge>
+    <edge source="CZE" target="UKR">
+      <data key="d5">7271.465</data>
+      <data key="d6">8.89185057770738</data>
+    </edge>
+    <edge source="CZE" target="GBR">
+      <data key="d5">34.211</data>
+      <data key="d6">3.5613585337860965</data>
+    </edge>
+    <edge source="FRA" target="BEL">
+      <data key="d5">138524.049</data>
+      <data key="d6">11.838806447462252</data>
+    </edge>
+    <edge source="FRA" target="BGR">
+      <data key="d5">95.385</data>
+      <data key="d6">4.5683505878495545</data>
+    </edge>
+    <edge source="FRA" target="GRC">
+      <data key="d5">5658.803</data>
+      <data key="d6">8.641144364937787</data>
+    </edge>
+    <edge source="FRA" target="ITA">
+      <data key="d5">719734.24</data>
+      <data key="d6">13.48663870114362</data>
+    </edge>
+    <edge source="FRA" target="ESP">
+      <data key="d5">388192.676</data>
+      <data key="d6">12.869259659012483</data>
+    </edge>
+    <edge source="FRA" target="CHE">
+      <data key="d5">216811.93</data>
+      <data key="d6">12.286790186990624</data>
+    </edge>
+    <edge source="FRA" target="UKR">
+      <data key="d5">7016.89</data>
+      <data key="d6">8.85621788203913</data>
+    </edge>
+    <edge source="POL" target="UKR">
+      <data key="d5">26615.778</data>
+      <data key="d6">10.18929704780913</data>
+    </edge>
+    <edge source="ZAF" target="BWA">
+      <data key="d5">13.855</data>
+      <data key="d6">2.6983365089145708</data>
+    </edge>
+    <edge source="ZAF" target="COD">
+      <data key="d5">15.177</data>
+      <data key="d6">2.783590480347557</data>
+    </edge>
+    <edge source="ZAF" target="LSO">
+      <data key="d5">6.363</data>
+      <data key="d6">1.9964674583865798</data>
+    </edge>
+    <edge source="ZAF" target="NAM">
+      <data key="d5">2.094</data>
+      <data key="d6">1.1294647521508743</data>
+    </edge>
+    <edge source="ZAF" target="SWZ">
+      <data key="d5">317.986</data>
+      <data key="d6">5.76514721467444</data>
+    </edge>
+  </graph>
+</graphml>
